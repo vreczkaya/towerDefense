@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6a091365c48904b9f2345c073a1f03, type: 3}
+  m_Name: ContentFactory
+  m_EditorClassIdentifier: 
+  _destinationPrefab: {fileID: 2705612270975267564, guid: 3145940bd08f2934e9379be186b54b1b, type: 3}
+  _emptyPrefab: {fileID: 4210616106520650804, guid: 07c07c82c5da0974a914374e2fc93af2, type: 3}
+  _wallPrefab: {fileID: 3431849816016614391, guid: 235d037941c51184bbde5b0a8d53b4a1, type: 3}
+  _spawnPointPrefab: {fileID: 6031793854343097801, guid: 81dbe000de272d34b9dc977971dcb729, type: 3}
+  _towerPrefabs:
+  - {fileID: 5156467119120947953, guid: 31e424ce8b4f34749ac6877725fd098b, type: 3}
+  - {fileID: 1512597697034784045, guid: 1347cf3a86e67884caa71bc08925b219, type: 3}
